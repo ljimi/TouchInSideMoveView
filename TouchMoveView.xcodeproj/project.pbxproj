@@ -13,6 +13,7 @@
 		2A43B5641DC2258400C36AE7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A43B5621DC2258400C36AE7 /* Main.storyboard */; };
 		2A43B5661DC2258400C36AE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A43B5651DC2258400C36AE7 /* Assets.xcassets */; };
 		2A43B5691DC2258400C36AE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A43B5671DC2258400C36AE7 /* LaunchScreen.storyboard */; };
+		2A43B5721DC225D300C36AE7 /* MoveView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A43B5711DC225D300C36AE7 /* MoveView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,9 @@
 		2A43B5651DC2258400C36AE7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2A43B5681DC2258400C36AE7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2A43B56A1DC2258400C36AE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2A43B5701DC225D300C36AE7 /* MoveView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MoveView.h; sourceTree = "<group>"; };
+		2A43B5711DC225D300C36AE7 /* MoveView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MoveView.m; sourceTree = "<group>"; };
+		2A43B5731DC23DCD00C36AE7 /* global.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = global.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,9 @@
 				2A43B55D1DC2258400C36AE7 /* AppDelegate.m */,
 				2A43B55F1DC2258400C36AE7 /* ViewController.h */,
 				2A43B5601DC2258400C36AE7 /* ViewController.m */,
+				2A43B5701DC225D300C36AE7 /* MoveView.h */,
+				2A43B5711DC225D300C36AE7 /* MoveView.m */,
+				2A43B5731DC23DCD00C36AE7 /* global.h */,
 				2A43B5621DC2258400C36AE7 /* Main.storyboard */,
 				2A43B5651DC2258400C36AE7 /* Assets.xcassets */,
 				2A43B5671DC2258400C36AE7 /* LaunchScreen.storyboard */,
@@ -153,6 +160,7 @@
 				2A43B5611DC2258400C36AE7 /* ViewController.m in Sources */,
 				2A43B55E1DC2258400C36AE7 /* AppDelegate.m in Sources */,
 				2A43B55B1DC2258400C36AE7 /* main.m in Sources */,
+				2A43B5721DC225D300C36AE7 /* MoveView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

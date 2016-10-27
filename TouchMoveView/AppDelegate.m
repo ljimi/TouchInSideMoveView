@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  TouchMoveView
 //
-//  Created by 孙春磊 on 2016/10/27.
+//  Created by mxl on 2016/10/27.
 //  Copyright © 2016年 mxl. All rights reserved.
 //
 

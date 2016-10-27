@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  MoveView.h
 //  TouchMoveView
 //
 //  Created by mxl on 2016/10/27.
@@ -8,10 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
+@interface MoveView : UIView
 
 @end
-
